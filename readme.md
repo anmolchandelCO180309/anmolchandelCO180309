@@ -1,4 +1,4 @@
-# Hi, I'm Anmol Chandel, <a href="https://dev.to/anmolchandelco180309">
+# Hi, I'm Anmol Chandel
 
 
 I'm a student of Btech Computer science in Punjab University. My aim is to build a constructive career in the field of computer science by obtaining opportunity to pursue my career in research and corporate world, also contribute my bit to the society as well as to hold a responsible challenging and awarding position in a software development organization. I always look ahead for the opportunities to gain knowledge and make new projects. So to increase my knowledge of coding, I keep grabbing those opportunities and learn day by day. Till date, I have made projects in C, C++, java, web languages and even python but still want to work on these languages to make bigger and better projects. Looking forward to add more skills to my profile.
