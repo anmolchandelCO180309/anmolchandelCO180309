@@ -1,5 +1,6 @@
 # Hi, I'm Anmol Chandel, <a href="https://dev.to/anmolchandelco180309">
- # DEV PROFILE: <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Anmol Chandel's DEV Profile" height="30" width="30">
+ # DEV PROFILE:
+ <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Anmol Chandel's DEV Profile" height="30" width="30">
 </a>
        
 
