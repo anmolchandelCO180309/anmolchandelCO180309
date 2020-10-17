@@ -6,3 +6,7 @@ I'm a student of Btech Computer science in Punjab University. My aim is to build
 
 # Find me on linkedIn:
 Sharing Updates on <a href = "https://www.linkedin.com/in/anmol-chandel-652870179/"> LINKEDIN </a>🤳
+<a href="https://dev.to/anmolchandelco180309">
+  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Anmol Chandel's DEV Profile" height="30" width="30">
+</a>
+       
